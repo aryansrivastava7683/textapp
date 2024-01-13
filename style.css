@@ -107,10 +107,22 @@ body {
 
 .bg-blue {
     background-color: #1c9bea;
+    padding: 0.625em;
+    border-radius: 1em;
+    margin-bottom: 0.625em;
+    display: flex;
+    flex-direction: column;
+    color: #f6f4f4;
 }
 
 .bg-grey {
     background-color: #3d5368;
+    padding: 0.625em;
+    border-radius: 1em;
+    margin-bottom: 0.625em;
+    display: flex;
+    flex-direction: column;
+    color: #f6f4f4;
 }
 
 .chat-input {
