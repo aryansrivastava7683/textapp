@@ -94,6 +94,11 @@ body {
     margin-bottom: 0.31em;
 }
 
+.message-sender{
+    font-weight: bold;
+    margin-bottom: 0.31em;
+}
+
 .msg-text {
     font-size: 1em;
     margin-bottom: 0.31em;
